@@ -1,2 +1,1 @@
-# CSC142_JAVA
-Summer2018 Java Class
+SCC Summer2018 Java Class
